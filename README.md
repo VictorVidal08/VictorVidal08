@@ -8,15 +8,15 @@
 
 - 🌱 I’m currently learning **TypeScript with OOP.**
 
-- 👨‍💻 I’m looking to collaborate on **Cool projects that helps me learn**
+- 👨‍💻 I’m looking to collaborate on **Projects that helps me learn and contribute for society**
 
-- 💬 Ask me about **React, JS**
+- 💬 Let's talk about **Technology, business, investiments and history!**
 
 - 📫 How to reach me **victorvidal@hotmail.com**
 
 - 🏰 Architectures and principles: **MSC, OOP, SOLID**
 
-- 📖 I’m currently reading **Clean Architecture.**
+- 📖 I’m currently reading **Clean Architecture (Robert Cecil Martin AS Uncle Bob).**
 
 - ⚡ Fun fact **I drive a VW Bug (programmers should laugh)!!**
 
@@ -50,15 +50,15 @@
 
 - 🌱 Estou praticando **TypeScript com POO.**
 
-- 👨‍💻 Meu objetivo é colaborar **com projetos legais, que me façam aprender e agreguem valor para a sociedade!**
+- 👨‍💻 Meu objetivo é colaborar **com projetos me façam aprender e agreguem valor para a sociedade!**
 
-- 💬 Gosto de conversar sobre **React, JS, história da programação**
+- 💬 Gosto de conversar sobre **Tecnologia, negócios, investimentos e história!**
 
 - 📫 Me mande um e-mail: **victorvidal@hotmail.com**
 
 - 🏰 Arquiteturas e princípios: **MSC, OOP, SOLID**
 
-- 📖 Estou lendo o livro **Arquitetura limpa.**
+- 📖 Estou lendo o livro **Arquitetura limpa (Robert Cecil Martin como Tio Bob).**
 
 - ⚡ Gosto de **Codar, dirigir e contar piadas ruins!**
 
@@ -73,8 +73,8 @@
 
 <h3 align="left">Principais linguagens e ferramentas:</h3>
 
-<p><b>JavaScript ES6, TypeScript, HTML5, CSS3</b> | aplicações frontEnd, estilização e arquitetura.</p>
-<p><b>React, Redux</b> | Componentização de aplicações frontEnd e gerenciamento de estado.</p>
+<p><b>JavaScript ES6, TypeScript, HTML5, CSS3</b> | aplicações front-end, estilização e arquitetura.</p>
+<p><b>React, Redux</b> | Componentização de aplicações front-end e gerenciamento de estado.</p>
 <p><b>Node.js, Sequelize, Docker, MySQL, MongoDb</b> | Criação de APIs, ORM, containers e gerenciamento de bases de dados.</p>
 <p><b>Mocha, Jest, RTL</b> | Testes unitários em Node.js, JavaScript e React.</p>
 
