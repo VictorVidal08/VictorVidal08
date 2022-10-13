@@ -1,5 +1,5 @@
 <details>
-<summary><h3>English Version</h3></summary>
+<summary><h2>English Version</h2></summary>
 
 <h1 align="center">Welcome!! I'm Victor Vidal!!</h1>
 <h3 align="center">A Fullstack web developer and mechanical engineer passionate about discoveries and technology!!</h3>
@@ -14,9 +14,9 @@
 
 - 📫 How to reach me **victorvidal@hotmail.com**
 
-- Architectures and principles: **MSC, OOP, SOLID**
+- 🏰 Architectures and principles: **MSC, OOP, SOLID**
 
-- I’m currently reading **Clean Architecture.**
+- 📖 I’m currently reading **Clean Architecture.**
 
 - ⚡ Fun fact **I drive a VW Bug (programmers should laugh)!!**
 
@@ -56,9 +56,9 @@
 
 - 📫 Me mande um e-mail: **victorvidal@hotmail.com**
 
-- Arquiteturas e princípios: **MSC, OOP, SOLID**
+- 🏰 Arquiteturas e princípios: **MSC, OOP, SOLID**
 
-- Estou lendo o livro **Arquitetura limpa.**
+- 📖 Estou lendo o livro **Arquitetura limpa.**
 
 - ⚡ Gosto de **Codar, dirigir e contar piadas ruins!**
 
