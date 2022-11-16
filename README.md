@@ -8,15 +8,15 @@
 
 - 🌱 I’m currently learning **TypeScript with OOP.**
 
-- 👨‍💻 I’m looking to collaborate on **Projects that helps me learn and contribute for society**
+- 👨‍💻 I’m looking to collaborate on **Projects that helps me learn and contribute for society!**
 
 - 💬 Let's talk about **Technology, business, investiments and history!**
 
 - 📫 How to reach me **victorvidal@hotmail.com**
 
-- 🏰 Architectures and principles: **MSC, OOP, SOLID**
+- 🏰 Architectures and principles: **MSC, OOP, SOLID.**
 
-- 📖 I’m currently reading **Clean Architecture (Robert Cecil Martin AS Uncle Bob).**
+- 📖 I’m currently reading **Clean Architecture (Robert C. Martin AS Uncle Bob).**
 
 - ⚡ Fun fact **I drive a VW Bug (programmers should laugh)!!**
 
@@ -44,7 +44,7 @@
 </details>
 
 <h1 align="center">Bem vindo!! Meu nome é Victor Vidal!!</h1>
-<h3 align="center"> Um desenvolvedor web fullstack e engenheiro mecânico apaixonado por descobertas e tecnologia!!</h3>
+<h3 align="center">Sou desenvolvedor web fullstack e engenheiro mecânico apaixonado por descobertas e tecnologia!!</h3>
 
 - 🔭 Atualmente estou trabalhando em **Projetos Backend e Fullstack**
 
@@ -56,9 +56,9 @@
 
 - 📫 Me mande um e-mail: **victorvidal@hotmail.com**
 
-- 🏰 Arquiteturas e princípios: **MSC, OOP, SOLID**
+- 🏰 Arquiteturas e princípios: **MSC, OOP, SOLID.**
 
-- 📖 Estou lendo o livro **Arquitetura limpa (Robert Cecil Martin como Tio Bob).**
+- 📖 Estou lendo o livro **Arquitetura limpa (Robert C. Martin).**
 
 - ⚡ Gosto de **Codar, dirigir e contar piadas ruins!**
 
