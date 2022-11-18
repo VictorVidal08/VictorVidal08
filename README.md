@@ -1,5 +1,5 @@
 <details>
-<summary><h2>English Version</h2></summary>
+<summary><h1>English Version</h1></summary>
 
 <h1 align="center">Welcome!! I'm Victor Vidal!!</h1>
 <h3 align="center">A Fullstack web developer and mechanical engineer passionate about discoveries and technology!!</h3>
@@ -56,7 +56,7 @@
 
 - 📫 Me mande um e-mail: **victorvidal@hotmail.com**
 
-- 🏰 Arquiteturas e princípios: **MSC, OOP, SOLID.**
+- 🏰 Arquiteturas e princípios: **MSC, POO, SOLID.**
 
 - 📖 Estou lendo o livro **Arquitetura limpa (Robert C. Martin).**
 
