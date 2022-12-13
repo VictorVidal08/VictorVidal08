@@ -34,7 +34,7 @@
 <p><b>JavaScript ES6, TypeScript, HTML5, CSS3, Python</b> | Languages, APIs and web apps, architecture and styling.</p>
 <p><b>React, Redux</b> | Front-end app componentization and state management.</p>
 <p><b>Node.js, Sequelize, Docker, MySQL, MongoDb</b> | API development, ORM, containers and database management.</p>
-<p><b>Mocha, Jest, RTL</b> | Unit automated tests in Node.js, JavaScript and React.</p>
+<p><b>Mocha, Jest, RTL, Pytest</b> | Unit automated tests in Node.js, JavaScript, React and Python.</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorvidal08&show_icons=true&locale=en&layout=compact" alt="victorvidal08" /></p>
@@ -76,7 +76,7 @@
 <p><b>JavaScript ES6, TypeScript, HTML5, CSS3, Python</b> | Linguagens, aplicações, estilização e arquitetura.</p>
 <p><b>React, Redux</b> | Componentização de aplicações front-end e gerenciamento de estado.</p>
 <p><b>Node.js, Sequelize, Docker, MySQL, MongoDb</b> | Criação de APIs, ORM, containers e gerenciamento de bases de dados.</p>
-<p><b>Mocha, Jest, RTL</b> | Testes unitários em Node.js, JavaScript e React.</p>
+<p><b>Mocha, Jest, RTL. Pytest</b> | Testes unitários em Node.js, JavaScript, React e Python.</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorvidal08&show_icons=true&locale=en&layout=compact" alt="victorvidal08" /></p>
