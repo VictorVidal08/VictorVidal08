@@ -31,7 +31,7 @@
 
 <h3 align="left">Main Languages and Tools:</h3>
 
-<p><b>JavaScript ES6, TypeScript, HTML5, CSS3, Python</b> | Languages, APIs and web apps, architecture and styling.</p>
+<p><b>JavaScript ES6, TypeScript, HTML5, CSS3, Python</b> | Languages, APIs, database connection for web apps, architecture and styling.</p>
 <p><b>React, Redux</b> | Front-end app componentization and state management.</p>
 <p><b>Node.js, Sequelize, Docker, MySQL, MongoDb</b> | API development, ORM, containers and database management.</p>
 <p><b>Mocha, Jest, RTL, Pytest</b> | Unit automated tests in Node.js, JavaScript, React and Python.</p>
